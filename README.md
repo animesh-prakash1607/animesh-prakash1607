@@ -18,7 +18,7 @@
 - 🌱 Currently learning **DSA in Java**  
 - 💼 All of my projects: [Portfolio](https://portfolioofanimesh.netlify.app)  
 - 📫 Reach me at: **animeshp1607@gmail.com**  
-- 📄 [Resume](https://drive.google.com/file/d/1fNXNfWCPHvDHwjLAQktILkp0sPXEaljX/view?usp=drive_link)  
+- 📄 [Resume](https://drive.google.com/file/d/1fNXNfWCPHvDHwjLAQktILkp0sPXEaljX/view?usp=sharing)  
 - ⚡ Fun fact: I debug better when talking to my **rubber duck 🐤** — my most loyal teammate!
 
     </td>
