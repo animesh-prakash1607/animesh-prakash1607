@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Animesh Prakash</h1>
-<h3 align="center">I'm a full-stack web developer with a focus on the MERN stack, dedicated to building clean, scalable, and efficient web applications. I enjoy turning ideas into functional products and writing maintainable code that delivers real-world impact.</h3>
+<h3 align="center">A Passionate Full Stack Developer from India.</h3>
 
 <img align="right" alt="Web Development" width="400" src="https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?t=st=1746545954~exp=1746549554~hmac=109695d40cdfb30e63e7cefe688db783e608d394a240ff4005650bd7c71202f0&w=1380"> 
 
