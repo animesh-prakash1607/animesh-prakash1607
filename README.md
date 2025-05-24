@@ -11,53 +11,39 @@
 
 ### 💫 About Me
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <ul>
-        <li>🌱 <strong>Currently learning:</strong> DSA in Java</li>
-        <li">💼 <strong>All of my projects:</strong>
-          <a href="https://portfolioofanimesh.netlify.app" target="_blank">
-            <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
-          </a>
-        </li>
-        <li>📬 <strong>Reach me at:</strong> animeshp1607@gmail.com</li>
-        <li>📄 <strong>Resume:</strong>
-          <a href="https://drive.google.com/file/d/1fNXNfWCPHvDHwjLAQktILkp0sPXEaljX/view?usp=sharing" target="_blank">
-            <img src="https://img.shields.io/badge/View-Resume-critical?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
-          </a>
-        </li>
-        <li>⚡ <strong>Fun fact:</strong> I debug better when talking to my <em>rubber duck</em> 🐤 — my most loyal teammate!</li>
-        <li>📈 <strong>Current Goals:</strong> Improve my full-stack development skills and contribute to open-source projects</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top;">
-      <div align="center">
-        <img src="https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?t=st=1746545954~exp=1746549554~hmac=109695d40cdfb30e63e7cefe688db783e608d394a240ff4005650bd7c71202f0&w=1380"
-             alt="Web Dev"
-             width="280"
-             style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
+<ul>
+  <li>🌱 <strong>Currently learning:</strong> DSA in Java</li>
+  <li>💼 <strong>All of my projects:</strong>
+    <a href="https://portfolioofanimesh.netlify.app" target="_blank">
+      <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+  </li>
+  <li>📬 <strong>Reach me at:</strong> animeshp1607@gmail.com</li>
+  <li>📄 <strong>Resume:</strong>
+    <a href="https://drive.google.com/file/d/1fNXNfWCPHvDHwjLAQktILkp0sPXEaljX/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/View-Resume-critical?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
+    </a>
+  </li>
+  <li>⚡ <strong>Fun fact:</strong> I debug better when talking to my <em>rubber duck</em> 🐤 — my most loyal teammate!</li>
+  <li>📈 <strong>Current Goals:</strong> Improve my full-stack development skills and contribute to open-source projects</li>
+</ul>
 
 ---
 
 ### 🌐 Connect with Me
 
-<p>
+<p style="display: flex; gap: 10px;">
   <a href="https://linkedin.com/in/animesh-prakash1607" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://www.leetcode.com/animesh_prakash07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetCode&logoColor=white" alt="LeetCode Badge" />
   </a>
   <a href="https://www.instagram.com/animeshp_1607/?hl=en" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </p>
+
 
 ---
 
@@ -82,19 +68,37 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
 </p>
 
+---
+
+### Top Usage Languages
+
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-prakash1607&show_icons=true&layout=compact&theme=react"
+    alt="Top Languages"
+    style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 115, 230, 0.3);"
+    width="320"
+  />
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=animesh-prakash1607&show_icons=true&theme=default" alt="GitHub Stats" />
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=animesh-prakash1607&show_icons=true&theme=react"
+    alt="GitHub Stats"
+    style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 115, 230, 0.3);"
+    width="550"
+  />
+
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-prakash1607&theme=blue-green"
+    alt="GitHub Streak"
+    style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 115, 230, 0.3);"
+    width="450"
+  />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh-prakash1607&show_icons=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-prakash1607" alt="GitHub Streak" />
-</p>
