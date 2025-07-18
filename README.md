@@ -33,14 +33,17 @@
 ### 🌐 Connect with Me
 
 <p style="display: flex; gap: 10px;">
-  <a href="https://linkedin.com/in/animesh-prakash1607" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
   <a href="https://www.leetcode.com/animesh_prakash07" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetCode&logoColor=white" alt="LeetCode Badge" />
   </a>
+    <a href="https://linkedin.com/in/animesh-prakash1607" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
   <a href="https://www.instagram.com/animeshp_1607/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+   <a href="mailto:animeshp1607@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
 
@@ -84,14 +87,6 @@
 ### 📊 GitHub Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=animesh-prakash1607&show_icons=true&theme=react"
-    alt="GitHub Stats"
-    style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 115, 230, 0.3);"
-    width="550"
-  />
-
 
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-prakash1607&theme=blue-green"
