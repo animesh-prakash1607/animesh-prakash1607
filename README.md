@@ -20,7 +20,7 @@
   </li>
   <li>📬 <strong>Reach me at:</strong> animeshp1607@gmail.com</li>
   <li>📄 <strong>Resume:</strong>
-    <a href="https://drive.google.com/file/d/1fNXNfWCPHvDHwjLAQktILkp0sPXEaljX/view?usp=sharing](https://drive.google.com/file/d/10Wr16sv49ZV6N9qv1EXxyr-yRg1IK8sC/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/10Wr16sv49ZV6N9qv1EXxyr-yRg1IK8sC/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/View-Resume-critical?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
     </a>
   </li>
